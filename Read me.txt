@@ -1,0 +1,12 @@
+Logistic Regression:
+Logistic Regression is a classification algorithm used to predict binary or categorical outcomes. Unlike Linear Regression, which predicts continuous values, Logistic Regression models the probability that an instance belongs to a particular class. It is commonly used in binary classification tasks, where the output is either 0 or 1. The algorithm uses the logistic (sigmoid) function to map predicted values to probabilities, and it finds the best decision boundary for classification based on features. It is widely applied in areas like medical diagnosis and fraud detection.
+
+
+Dataset:
+This dataset contains medical and lifestyle information such as gender, age, smoking habits, blood pressure, cholesterol levels, and other health indicators. The target variable is TenYearCHD, which represents whether an individual will develop coronary heart disease (CHD) in the next ten years (binary outcome: 0 or 1). By applying Logistic Regression, we aim to predict the likelihood of someone developing CHD based on their health profile. The analysis will help identify risk factors for heart disease and support early prevention strategies.
+
+
+
+
+
+
